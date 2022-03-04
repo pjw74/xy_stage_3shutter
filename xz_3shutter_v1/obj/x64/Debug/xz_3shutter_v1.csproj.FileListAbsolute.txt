@@ -1,0 +1,34 @@
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\xz_3shutter_v1.exe.config
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\xz_3shutter_v1.exe
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\xz_3shutter_v1.pdb
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.KCube.SolenoidCLI.dll
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.Form1.resources
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.Properties.Resources.resources
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.GenerateResource.cache
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.CoreCompileInputs.cache
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.CopyComplete
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.exe
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.pdb
+C:\Users\PJW\source\repos\xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\xz_3shutter_v1.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\xz_3shutter_v1.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\xz_3shutter_v1.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.KCube.SolenoidCLI.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\6. xz_3shutter\1. xz_3shutter_v1\xz_3shutter_v1\obj\x64\Debug\xz_3shutter_v1.pdb
